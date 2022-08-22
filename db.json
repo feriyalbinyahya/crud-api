@@ -1,0 +1,22 @@
+{
+    "users" : [
+        {
+          "id": 1,
+          "nama": "Mark",
+          "email": "mark@gmail.com",
+          "telepon": "0192833"
+        },
+        {
+          "id": 2,
+          "nama": "Jacob",
+          "email": "Thornton@gmail.com",
+          "telepon": "1112092"
+        },
+        {
+          "id": 3,
+          "nama": "Larry the Bird",
+          "email": "larry@gmail.com",
+          "telepon": "1117892"
+        }
+      ]
+}
